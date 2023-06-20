@@ -11,6 +11,7 @@
 
 #### CSS Framework
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
+![TailwindCss](https://img.shields.io/badge/-TailwindCss-000?style=for-the-badge&logo=tailwindcss)
 
 #### Design/Visual Tools
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
