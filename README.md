@@ -37,11 +37,6 @@
 #### Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 
-## Current GitHub Stats 📊
-![](https://github-readme-stats.vercel.app/api?username=Darshan1412&theme=onedark&hide_border=true&include_all_commits=true&count_private=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan1412&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-> Check Commits below, GitHub stats are sometimes inaccurate due to caching.
-> 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HarshitAnchan&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
