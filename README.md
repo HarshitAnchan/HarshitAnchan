@@ -4,7 +4,7 @@
 
 ## Tech Stack 💻
 #### Languages
-![Java](https://img.shields.io/badge/-java?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=black)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
@@ -19,7 +19,8 @@
 
 #### Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
-![SQL](https://img.shields.io/badge/-sql-000?style=for-the-badge&logo=sql)
+![MYSQL](https://img.shields.io/badge/-mysql-%2300?style=for-the-badge&logo=mysql)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=black) 
 
 #### Backend
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
