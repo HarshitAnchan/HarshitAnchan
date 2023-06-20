@@ -1,8 +1,8 @@
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshit_anchan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-anchan-525343222) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Harshit53639381) 
 
-## Tech Stack 💻
+## 💻 Tech Stack 
 #### Languages
 ![Java](https://img.shields.io/badge/-java-000?style=for-the-badge&logo=java)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
@@ -38,7 +38,7 @@
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=HarshitAnchan&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HarshitAnchan&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitAnchan&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
