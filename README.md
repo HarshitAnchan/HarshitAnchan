@@ -1,10 +1,12 @@
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshit_anchan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-anchan-525343222) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/HarshitAnchan02) 
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=#f95c6f)](https://instagram.com/harshit_anchan)
+[![Linkdein](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://linkedin.com/in/harshit-anchan-525343222) 
+[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/HarshitAnchan02) 
 
 ## 💻 Tech Stack 
 #### Languages
-![Java](https://img.shields.io/badge/-java-000?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=Java)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
@@ -32,6 +34,7 @@
 ![Cloud Flare](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=cloudflare)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
+![Render](https://img.shields.io/badge/-Render-000?style=for-the-badge&logo=Render)
 
 #### Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
