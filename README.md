@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshit Anchan</h1>
 <h3 align="center">I am a software developer with a strong passion for creating technology that elevates people and building communities that facilitate easy knowledge sharing. I primarily work with Java and JavaScript, and I enjoy using Node.js, REST APIs, MongoDB, among other tools and technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitanchan&label=Profile%20views&color=0e75b6&style=flat" alt="harshitanchan" /> </p>
 
 - 📫 How to reach me **harshitanchan647@gmail.com**
 
