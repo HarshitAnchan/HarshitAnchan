@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Anchan</h1>
-<h3>I am a software developer with a strong passion for creating technology that elevates people and building communities that facilitate easy knowledge sharing. I primarily work with Java and JavaScript, and I enjoy using Node.js, REST APIs, MongoDB, among other tools and technologies.</h3>
+<h3>I write code to elevate people — and occasionally to see how many bugs I can fix before Friday.
+
+</h3>
 
 
 - 📫 How to reach me **harshitanchan647@gmail.com**
