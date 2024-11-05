@@ -83,16 +83,19 @@
 </p>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/HarshitAnchan/HarshitAnchan/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+<h2 align="center">🏆 My Contributions 🏆</h2>
+
+<div align="center">
+  <img src="https://github-readme-3d-contrib.vercel.app/api/v1/HarshitAnchan?theme=dark&reverse=true&width=800&height=300" alt="3D Contribution Calendar" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HarshitAnchan/HarshitAnchan/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode">
-  <img src="https://raw.githubusercontent.com/HarshitAnchan/HarshitAnchan/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshitAnchan&theme=github_dark" alt="GitHub Profile Summary" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HarshitAnchan&theme=github_dark" alt="Contribution Time of Day" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshitAnchan&theme=github_dark" alt="Top Languages by Repo" />
 </div>
 
 <h2 align="center">💻 Check Out My Repos ⬇️ </h2>
