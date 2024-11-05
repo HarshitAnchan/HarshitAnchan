@@ -43,8 +43,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitanchan&show_icons=true&locale=en&layout=compact" alt="harshitanchan" /></p>
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/HarshitAnchan?cardType=octocat&preferLogin=false)](https://git.io/awesome-stats-card)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitanchan&show_icons=true&locale=en" alt="harshitanchan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitanchan&" alt="harshitanchan" /></p>
