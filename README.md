@@ -1,35 +1,29 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Harshit;Welcome+to+my+Matrix" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Harshit;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HarshitAnchan&label=Profile%20views&color=00FF00&style=flat" alt="HarshitAnchan" />
+  <img src="https://komarev.com/ghpvc/?username=HarshitAnchan&label=Profile%20views&color=2F81F7&style=flat" alt="HarshitAnchan" />
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarshitAnchan&theme=matrix&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HarshitAnchan&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-<br>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshitAnchan&show_icons=true&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9&bg_color=0d1117" alt="Harshit Anchan's GitHub Stats" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitAnchan&theme=dark&hide_border=true&stroke=00FF00&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="Harshit Anchan's GitHub Streak" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HarshitAnchan&show_icons=true&count_private=true&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&bg_color=0d1117" alt="Harshit Anchan's GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitAnchan&layout=compact&hide_border=true&title_color=2F81F7&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages" />
 </div>
-
-<br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitAnchan&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true" alt="Harshit Anchan's Contribution Graph" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitAnchan&theme=tokyonight&hide_border=true&stroke=2F81F7&background=0D1117&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="Harshit Anchan's GitHub Streak" />
 </div>
-
-<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitAnchan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&bg_color=0d1117&title_color=00FF00&text_color=00FF00" alt="Top Languages" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitAnchan&bg_color=0D1117&color=2F81F7&line=2F81F7&point=FFFFFF&hide_border=true" alt="Harshit Anchan's Contribution Graph" />
 </div>
-
-<br>
 
 <h2 align="center">🚀 Technologies & Tools</h2>
 
@@ -50,13 +44,15 @@
 
 <div align="center">
   <a href="https://github.com/HarshitAnchan/Trace.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarshitAnchan&repo=Trace.io&theme=dark&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&hide_border=true&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarshitAnchan&repo=Trace.io&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/HarshitAnchan/ConnecSpace">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarshitAnchan&repo=ConnecSpace&theme=dark&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&hide_border=true&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarshitAnchan&repo=ConnecSpace&theme=tokyonight&hide_border=true" />
   </a>
+</div>
+<div align="center">
   <a href="https://github.com/HarshitAnchan/FileDrop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarshitAnchan&repo=FileDrop&theme=dark&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&hide_border=true&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarshitAnchan&repo=FileDrop&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
@@ -80,21 +76,7 @@
 
 <h2 align="center">💻 Check Out My Repos ⬇️ </h2>
 
-<style>
-  .matrix-animation {
-    background: linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,255,0,0.2) 100%);
-    background-size: 100% 3px;
-    animation: matrix 10s linear infinite;
-  }
-
-  @keyframes matrix {
-    0% {
-      background-position: 0% 0%;
-    }
-    100% {
-      background-position: 0% 100%;
-    }
-  }
-</style>
-
-<div class="matrix-animation"></div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/HarshitAnchan/HarshitAnchan/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode">
+  <img src="https://raw.githubusercontent.com/HarshitAnchan/HarshitAnchan/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode">
+</div>
