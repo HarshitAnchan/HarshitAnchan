@@ -83,19 +83,28 @@
 </p>
 
 <div align="center">
-<h2 align="center">🏆 My Contributions 🏆</h2>
-
-<div align="center">
-  <img src="https://github-readme-3d-contrib.vercel.app/api/v1/HarshitAnchan?theme=dark&reverse=true&width=800&height=300" alt="3D Contribution Calendar" />
-</div>
+<h2 align="center">🏆 My GitHub Contributions and Stats 🏆</h2>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshitAnchan&theme=github_dark" alt="GitHub Profile Summary" />
 </div>
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarshitAnchan&theme=github_dark" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HarshitAnchan&theme=github_dark" alt="Contribution Time of Day" />
+</div>
+
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshitAnchan&theme=github_dark" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarshitAnchan&theme=github_dark" alt="Top Languages by Commit" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitAnchan&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitAnchan&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 <h2 align="center">💻 Check Out My Repos ⬇️ </h2>
