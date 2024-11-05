@@ -27,44 +27,121 @@
 
 <h2 align="center">🚀 Technologies & Tools</h2>
 
-<details>
-  <summary><b>Languages</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  </p>
-</details>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="#java">
+          <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>Java
+      </td>
+      <td align="center" width="96">
+        <a href="#typescript">
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <a href="#javascript">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <a href="#react">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <a href="#nextjs">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>Next.js
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <a href="#nodejs">
+          <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>Nginx
+      </td>
+      <td align="center" width="96">
+        <a href="#expressjs">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>Express.js
+      </td>
+      <td align="center" width="96">
+        <a href="#nodejs">
+          <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
+        <a href="#mongodb">
+          <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>MongoDB
+      </td>
+      <td align="center" width="96">
+        <a href="#mysql">
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>MySQL
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <a href="#docker">
+          <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <a href="#aws">
+          <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>AWS
+      </td>
+      <td align="center" width="96">
+        <a href="#git">
+          <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <a href="#postman">
+          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>Postman
+      </td>
+      <td align="center" width="96">
+        <a href="#firebase">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>Firebase
+      </td>
+    </tr>
+  </table>
+</div>
 
 <details>
-  <summary><b>Frontend | Backend</b></summary>
-  <br/>
+  <summary><b>🛠️ More Tools & Technologies</b></summary>
+  <br>
   <p align="center">
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  </p>
-</details>
-
-<details>
-  <summary><b>Databases</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  </p>
-</details>
-
-<details>
-  <summary><b>Tools | Version Control</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+    <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+    <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="Webpack" />
+    <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" alt="Babel" />
+    <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" />
   </p>
 </details>
 
