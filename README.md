@@ -76,13 +76,13 @@
       </td>
       <td align="center" width="96">
         <a href="#nodejs">
-          <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="65" height="65" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="icon" width="65" height="65" />
         </a>
         <br>Node.js
       </td>
       <td align="center" width="96">
         <a href="#mongodb">
-          <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="icon" width="65" height="65" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="icon" width="65" height="65" />
         </a>
         <br>MongoDB
       </td>
