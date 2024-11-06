@@ -24,22 +24,7 @@
   </a>
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HarshitAnchan&show_icons=true&count_private=true&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&bg_color=0d1117" alt="Harshit Anchan's GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitAnchan&layout=compact&hide_border=true&title_color=2F81F7&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages" />
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitAnchan&theme=tokyonight&hide_border=true&stroke=2F81F7&background=0D1117&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="Harshit Anchan's GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitAnchan&bg_color=0D1117&color=2F81F7&line=2F81F7&point=FFFFFF&hide_border=true" alt="Harshit Anchan's Contribution Graph" />
-</div>
-
-<h2 align="center">🚀 Technologies & Tools</h2>
+<h2 align="center">🚀 Languages, Frameworks & Tools</h2>
 
 <div align="center">
   <table>
@@ -141,6 +126,23 @@
     </tr>
   </table>
 </div>
+
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HarshitAnchan&show_icons=true&count_private=true&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&bg_color=0d1117" alt="Harshit Anchan's GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitAnchan&layout=compact&hide_border=true&title_color=2F81F7&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages" />
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitAnchan&theme=tokyonight&hide_border=true&stroke=2F81F7&background=0D1117&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="Harshit Anchan's GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitAnchan&bg_color=0D1117&color=2F81F7&line=2F81F7&point=FFFFFF&hide_border=true" alt="Harshit Anchan's Contribution Graph" />
+</div>
+
 
 
 
