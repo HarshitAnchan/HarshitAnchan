@@ -163,16 +163,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarshitAnchan&theme=github_dark" alt="Top Languages by Commit" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitAnchan&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitAnchan&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
-
-
 <h2 align="center">📫 Connect with me</h2>
 
 <p align="center">
