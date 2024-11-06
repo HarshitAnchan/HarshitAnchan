@@ -160,8 +160,3 @@
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
-<h2 align="center">💻 Check Out My Repos ⬇️ </h2>
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt" alt="Jokes Card" />
-</div>
