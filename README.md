@@ -12,7 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=HarshitAnchan&label=Profile%20views&color=2F81F7&style=flat" alt="HarshitAnchan" />
 </p>
 <h2 align="center">📫 Connect with me</h2>
-
 <p align="center">
   <a href="https://linkedin.com/in/harshitanchan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
