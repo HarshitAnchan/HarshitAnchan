@@ -1,4 +1,7 @@
-<img https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=120&section=header" width="100%" alt="Header Wave" />
+</div>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Harshit;Welcome+to+my+GitHub!;Full-Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
 </div>
@@ -16,19 +19,7 @@
 </p>
 
 <p align="center">
-  🎓 B.E. in Electronics and Computer Science at Fr. Conceicao Rodrigues College of Engineering<br>
-  💼 Experienced in building robust web applications with React, Node.js, and MongoDB<br>
-  👯 Looking to collaborate on innovative open-source projects<br>
-  💬 Ask me about JavaScript, React, Node.js, or any tech-related stuff<br>
-</p>
-
-<p align="center">
-  <a href="https://github.com/HarshitAnchan?tab=followers">
-    <img src="https://img.shields.io/github/followers/HarshitAnchan?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/HarshitAnchan?tab=stars">
-    <img src="https://img.shields.io/github/stars/HarshitAnchan?label=Stars&logo=GitHub&style=for-the-badge" alt="GitHub Stars" />
-  </a>
+  Hi 👋, I'm Harshit, a passionate Full-Stack Developer from Mumbai, India. I love building web applications and solving complex problems.
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
@@ -181,3 +172,7 @@
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=120&section=footer" width="100%" alt="Footer Wave" />
+</div>
