@@ -160,14 +160,14 @@
 </div>
 
 
-<h2 align="center">🏆 3D Contribution Calendar</h2>
+<h2 align="center">🏆 3D Contribution Graph</h2>
 
 <div align="center">
-  <img src="https://skyline.github.com/HarshitAnchan/2023" width="650" alt="3D Contribution Calendar" />
+  <img src="https://github-readme-3d-contrib.vercel.app/api/v1/HarshitAnchan?theme=dark&reverse=true" width="900px" alt="3D Contribution Graph" />
 </div>
 
 <p align="center">
-  <i>A 3D model of my GitHub contributions in the last year. Drag to interact!</i>
+  <i>A 3D visualization of my GitHub contributions. The more contributions, the higher the towers!</i>
 </p>
 
 
