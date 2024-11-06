@@ -145,19 +145,6 @@
   </p>
 </details>
 
-<h2 align="center">📫 Connect with me</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/harshitanchan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:harshitanchan647@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/HarshitAnchan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
 
 <div align="center">
 <h2 align="center">🏆 My GitHub Contributions and Stats 🏆</h2>
@@ -184,16 +171,23 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitAnchan&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
+
+
+<h2 align="center">📫 Connect with me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/harshitanchan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:harshitanchan647@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/HarshitAnchan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
 <h2 align="center">💻 Check Out My Repos ⬇️ </h2>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt" alt="Jokes Card" />
 </div>
