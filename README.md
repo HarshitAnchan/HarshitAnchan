@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=120&section=header" width="100%" alt="Header Wave" />
+  <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg&color=2F81F7&height=120&section=header" width="100%" alt="Header Wave" />
 </div>
 
 <div align="center">
@@ -13,14 +13,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge&logo=react" alt="Full Stack Developer" />
-  <img src="https://img.shields.io/badge/Problem-Solver-green?style=for-the-badge&logo=leetcode" alt="Problem Solver" />
-  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-orange?style=for-the-badge&logo=github" alt="Open Source Enthusiast" />
-</p>
-
-<p align="center">
-  Hi 👋, I'm Harshit, a passionate Full-Stack Developer from Mumbai, India. I love building web applications and solving complex problems.
-</p>
+Hi 👋, I'm Harshit</p>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
