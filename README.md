@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg&color=2F81F7&height=120&section=header" width="100%" alt="Header Wave" />
+  <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" alt="Header SVG" />
 </div>
 
 <div align="center">
@@ -10,10 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=HarshitAnchan&label=Profile%20views&color=2F81F7&style=flat" alt="HarshitAnchan" />
 </p>
 
-<h2 align="center">🚀 About Me</h2>
-
-<p align="center">
-Hi 👋, I'm Harshit</p>
+<h2 align="center">Hi 👋, I'm Harshit</h2>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
