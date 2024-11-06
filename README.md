@@ -160,6 +160,16 @@
 </div>
 
 
+<h2 align="center">🏆 3D Contribution Calendar</h2>
+
+<div align="center">
+  <img src="https://skyline.github.com/HarshitAnchan/2023" width="650" alt="3D Contribution Calendar" />
+</div>
+
+<p align="center">
+  <i>A 3D model of my GitHub contributions in the last year. Drag to interact!</i>
+</p>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=120&section=footer" width="100%" alt="Footer Wave" />
