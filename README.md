@@ -11,6 +11,19 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HarshitAnchan&label=Profile%20views&color=2F81F7&style=flat" alt="HarshitAnchan" />
 </p>
+<h2 align="center">📫 Connect with me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/harshitanchan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:harshitanchan647@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/HarshitAnchan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -149,19 +162,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarshitAnchan&theme=github_dark" alt="Top Languages by Commit" />
 </div>
 
-<h2 align="center">📫 Connect with me</h2>
 
-<p align="center">
-  <a href="https://linkedin.com/in/harshitanchan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:harshitanchan647@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/HarshitAnchan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=120&section=footer" width="100%" alt="Footer Wave" />
