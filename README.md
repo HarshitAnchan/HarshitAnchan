@@ -6,9 +6,29 @@
   <img src="https://komarev.com/ghpvc/?username=HarshitAnchan&label=Profile%20views&color=2F81F7&style=flat" alt="HarshitAnchan" />
 </p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarshitAnchan&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
+<h2 align="center">🚀 About Me</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge&logo=react" alt="Full Stack Developer" />
+  <img src="https://img.shields.io/badge/Problem-Solver-green?style=for-the-badge&logo=leetcode" alt="Problem Solver" />
+  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-orange?style=for-the-badge&logo=github" alt="Open Source Enthusiast" />
+</p>
+
+<p align="center">
+  🎓 B.E. in Electronics and Computer Science at Fr. Conceicao Rodrigues College of Engineering<br>
+  💼 Experienced in building robust web applications with React, Node.js, and MongoDB<br>
+  👯 Looking to collaborate on innovative open-source projects<br>
+  💬 Ask me about JavaScript, React, Node.js, or any tech-related stuff<br>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HarshitAnchan?tab=followers">
+    <img src="https://img.shields.io/github/followers/HarshitAnchan?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/HarshitAnchan?tab=stars">
+    <img src="https://img.shields.io/github/stars/HarshitAnchan?label=Stars&logo=GitHub&style=for-the-badge" alt="GitHub Stars" />
+  </a>
+</p>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
