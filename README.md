@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Harshit;Welcome+to+my+GitHub!;Full-Stack+Developer; Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Harshit;Welcome+to+my+GitHub!;Full-Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
 
@@ -159,16 +159,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarshitAnchan&theme=github_dark" alt="Top Languages by Commit" />
 </div>
 
-
-<h2 align="center">🏆 3D Contribution Graph</h2>
-
-<div align="center">
-  <img src="https://github-readme-3d-contrib.vercel.app/api/v1/HarshitAnchan?theme=dark&reverse=true" width="900px" alt="3D Contribution Graph" />
-</div>
-
-<p align="center">
-  <i>A 3D visualization of my GitHub contributions. The more contributions, the higher the towers!</i>
-</p>
 
 
 <div align="center">
